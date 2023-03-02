@@ -1,0 +1,52 @@
+[
+  {
+    "Make": "Acura",
+    "Model": "TL",
+    "Year": 2003
+  },
+  {
+    "Make": "Ferrari",
+    "Model": "612 Scaglietti",
+    "Year": 2006
+  },
+  {
+    "Make": "Mercury",
+    "Model": "Topaz",
+    "Year": 1989
+  },
+  {
+    "Make": "Dodge",
+    "Model": "Grand Caravan",
+    "Year": 2000
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "G-Series G20",
+    "Year": 1993
+  },
+  {
+    "Make": "Scion",
+    "Model": "tC",
+    "Year": 2009
+  },
+  {
+    "Make": "Audi",
+    "Model": "A5",
+    "Year": 2010
+  },
+  {
+    "Make": "Mercedes-Benz",
+    "Model": "CLS-Class",
+    "Year": 2010
+  },
+  {
+    "Make": "Land Rover",
+    "Model": "Defender 110",
+    "Year": 1993
+  },
+  {
+    "Make": "Nissan",
+    "Model": "Titan",
+    "Year": 2010
+  }
+]

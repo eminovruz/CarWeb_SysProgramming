@@ -1,0 +1,32 @@
+[
+  {
+    "Make": "GMC",
+    "Model": "Sierra 1500",
+    "Year": 2000
+  },
+  {
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Year": 1999
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Monza",
+    "Year": 1975
+  },
+  {
+    "Make": "Isuzu",
+    "Model": "i-Series",
+    "Year": 2006
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Beretta",
+    "Year": 1995
+  },
+  {
+    "Make": "Ford",
+    "Model": "Expedition EL",
+    "Year": 2009
+  }
+]

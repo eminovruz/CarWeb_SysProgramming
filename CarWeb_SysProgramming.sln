@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarWeb_SysProgramming", "CarWeb_SysProgramming\CarWeb_SysProgramming.csproj", "{97E1CE3D-FDD6-4E2E-9CDB-26BF1D5BFDCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeadLockExample", "DeadLockExample\DeadLockExample.csproj", "{9B48CD71-2289-4DFA-AA9B-B34FF6F8BAD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E1CE3D-FDD6-4E2E-9CDB-26BF1D5BFDCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E1CE3D-FDD6-4E2E-9CDB-26BF1D5BFDCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E1CE3D-FDD6-4E2E-9CDB-26BF1D5BFDCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E1CE3D-FDD6-4E2E-9CDB-26BF1D5BFDCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B48CD71-2289-4DFA-AA9B-B34FF6F8BAD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B48CD71-2289-4DFA-AA9B-B34FF6F8BAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B48CD71-2289-4DFA-AA9B-B34FF6F8BAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B48CD71-2289-4DFA-AA9B-B34FF6F8BAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBB6B469-F644-4332-B5DA-31A63D58F53E}
+	EndGlobalSection
+EndGlobal

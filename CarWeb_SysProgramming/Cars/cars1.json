@@ -1,0 +1,32 @@
+[
+  {
+    "Make": "Mazda",
+    "Model": "MPV",
+    "Year": 1991
+  },
+  {
+    "Make": "Chevrolet",
+    "Model": "Tracker",
+    "Year": 2004
+  },
+  {
+    "Make": "Mazda",
+    "Model": "MX-5",
+    "Year": 2004
+  },
+  {
+    "Make": "Subaru",
+    "Model": "Impreza",
+    "Year": 1998
+  },
+  {
+    "Make": "Mazda",
+    "Model": "B2500",
+    "Year": 2001
+  },
+  {
+    "Make": "Buick",
+    "Model": "Lucerne",
+    "Year": 2007
+  }
+]
